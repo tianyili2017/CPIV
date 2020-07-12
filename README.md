@@ -52,4 +52,4 @@ For a file containing *N* record, the size of file is 60*N* bytes. An example is
 
 [5] D.-T. Dang-Nguyen, C. Pasquini, V. Conotter, and G. Boato, “RAISE: A raw images dataset for digital image forensics,” in Proceedings of the 6th ACM Multimedia Systems Conference, 2015, pp. 219–224.
 
-[6] Joint Video Experts Team (JVET), “VTM Software,” [Online]. Available: https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware\_VTM/, 2020, [Accessed 23-Feb.-2020].
+[6] Joint Video Experts Team (JVET), “VTM Software,” [Online]. Available: https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/, 2020, [Accessed 23-Feb.-2020].
