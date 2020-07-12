@@ -12,7 +12,7 @@ This CPIV database is composed of three parts: raw video/image data, CU partitio
 
 ## 2. Download
 
-From both Dropbox and BaiduNetDisk, files are the identical. Choose either site that is more convenient for you.
+From both Dropbox and BaiduNetDisk, files are the same. Choose either site that is more convenient for you.
 
 (1) 182 raw video sequences (in folder <font color="#0040c0">*YUV_HIF/*</font>)
 
